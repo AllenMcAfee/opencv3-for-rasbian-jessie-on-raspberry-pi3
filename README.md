@@ -1,7 +1,10 @@
 # opencv-raspbian Jessie
 #opencv for raspbian jessie(pixel) on the raspberry pi3
 #i dont take credit for this one, i just forgot where i got it. 
-#sinistergenius.com
+
+featured in:
+#https://sinistergenius.com/2018/04/07/open-cv/
+
 #Cheers :)
 
 Always good practice to update everything before you install stuff:
